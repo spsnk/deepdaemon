@@ -415,12 +415,12 @@ a:after {
 	background-image: url('../img/bg/Fondo_2.jpg')
 }
 
-.divider2 {
-	background-image: url('../img/team/Todos%20Fuera%20Big%20Dark.jpg');
-    
+.divider3 {
+	background-image: url('../img/bg/todos_2018_bg.jpg');
+  background-position: top; 
 }
 
-.divider3 {
+.divider2 {
 	background-image: url('../img/bg/divider3.jpg');
 	margin-top: 0px;
 }
